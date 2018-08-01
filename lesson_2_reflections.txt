@@ -1,0 +1,6 @@
+what happens when you initialize a repository ?
+.. 
+ ..
+ ..
+ ..
+ 

@@ -1,0 +1,6 @@
+How did viewing a diff ....
+
+If the file was a small file containing less than 50 lines of code, manually locating the errors was comfortable. But for bigger files , it would be diificult and diff made that possible with showing only the difference codes
+
+How could you having easy access ....
+When we want to go back to the changes made previously and now a newer code is put and you want to go back and check the older code
